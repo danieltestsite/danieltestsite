@@ -11845,8 +11845,8 @@ address {
 }
 
 .bg-primary.bg-white-outline-btn .btn-white-outline:hover {
-    background: #0a7069;
-    border-color: #0a7069;
+    background: #47a2da;
+    border-color: #47a2da;
 }
 
 .bg-porcelain {
@@ -11885,8 +11885,8 @@ address {
 }
 
 .bg-cello {
-    background: #0a7069;
-    fill: #0a7069;
+    background: #47a2da;
+    fill: #47a2da;
 }
 
 .bg-cloud-burst {
@@ -11910,8 +11910,8 @@ address {
 }
 
 .bg-cape-cod {
-    background: #0a7069;
-    fill: #0a7069;
+    background: #47a2da;
+    fill: #47a2da;
 }
 
 .bg-athens-gray {
@@ -12041,7 +12041,7 @@ address {
 }
 
 .page .text-dusty-gray {
-    color: #9b9b9b;
+    color: #ffffff;
 }
 
 .page a.text-dusty-gray:hover,
@@ -12473,16 +12473,16 @@ html .btn-cello-outline:active:focus,
 html .btn-cello-outline.active:focus,
 html .btn-cello-outline:focus:active,
 html .btn-cello-outline:focus {
-    color: #0a7069;
+    color: #47a2da;
     background-color: transparent;
-    border-color: #0a7069;
+    border-color: #47a2da;
 }
 
 .open > html .btn-cello-outline.dropdown-toggle,
 html .btn-cello-outline:hover {
     color: #fff;
-    background-color: #0a7069;
-    border-color: #0a7069;
+    background-color: #47a2da;
+    border-color: #47a2da;
 }
 
 html .btn-cello-outline.disabled,
@@ -12494,7 +12494,7 @@ fieldset[disabled] html .btn-cello-outline {
 
 html .btn-cello-outline .badge {
     color: transparent;
-    background-color: #0a7069;
+    background-color: #47a2da;
 }
 
 html .btn-white-outline,
@@ -12629,8 +12629,8 @@ html .btn-cello.active:focus,
 html .btn-cello:focus:active,
 html .btn-cello:focus {
     color: #fff;
-    background-color: #0a7069;
-    border-color: #0a7069;
+    background-color: #47a2da;
+    border-color: #47a2da;
 }
 
 .open > html .btn-cello.dropdown-toggle,
@@ -12648,7 +12648,7 @@ fieldset[disabled] html .btn-cello {
 }
 
 html .btn-cello .badge {
-    color: #0a7069;
+    color: #47a2da;
     background-color: #fff;
 }
 
@@ -13399,7 +13399,7 @@ html .btn-cello .badge {
 }
 
 .fa-inverse {
-    color: #ffffff;
+    color: #47a2da;
 }
 
 
@@ -32138,7 +32138,7 @@ blockquote cite {
     background: -moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%, #dedede 50%, transparent 100%);
     background: -webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%, #dedede 50%, transparent 100%);
     background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, #dedede 50%, transparent 100%);
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#00000000', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#0047a2da', endColorstr='#00000000', GradientType=1);
 }
 
 .quote-minimal-bordered:before {
@@ -34042,7 +34042,7 @@ blockquote cite {
 .pricing-table-label {
     padding: 17px 15px;
     text-align: center;
-    background: #0a7069;
+    background: #47a2da;
 }
 
 .pricing-table-label p {
@@ -37978,8 +37978,8 @@ dt {
 .tabs-custom.tabs-corporate .nav-tabs li a:hover,
 .tabs-custom.tabs-corporate .nav-tabs li.active a {
     color: #fff;
-    background: #0a7069;
-    border-color: #0a7069;
+    background: #47a2da;
+    border-color: #47a2da;
 }
 
 .tabs-custom.tabs-corporate .nav-tabs li a:hover:after,
@@ -38226,7 +38226,7 @@ dt {
 
 .tabs-vertical.tabs-corporate .nav-tabs li a:hover,
 .tabs-vertical.tabs-corporate .nav-tabs li.active a {
-    border-color: #0a7069;
+    border-color: #47a2da;
 }
 
 .tabs-vertical.tabs-corporate .tab-content {
@@ -38324,7 +38324,7 @@ dt {
     }
     .tabs-custom.tabs-vertical .nav-tabs li a:hover,
     .tabs-custom.tabs-vertical .nav-tabs li.active a {
-        border-color: #0a7069;
+        border-color: #47a2da;
     }
     .tabs-custom.tabs-vertical .nav-tabs li a:hover:after,
     .tabs-custom.tabs-vertical .nav-tabs li.active a:after {
@@ -45035,7 +45035,7 @@ html.rd-navbar-sidebar-linked body {
 .rd-navbar-corporate-dark.rd-navbar-static .rd-navbar-aside {
     position: relative;
     z-index: 2;
-    background: #0a7069;
+    background: #47a2da;
 }
 
 .rd-navbar-corporate-dark.rd-navbar-static .rd-navbar-aside:after {
@@ -46351,7 +46351,7 @@ html.boxed .rd-navbar--is-clone {
 
 .rd-search-results-live .search_submit:hover {
     color: #fff;
-    background: #0a7069;
+    background: #47a2da;
 }
 
 .rd-search-results-live .match {
@@ -50694,10 +50694,10 @@ position:relative;
 top:450px; 
 margin-top:-450px;display:block;}
 }
-.swiper-slide-caption .jumbotron-custom {color:#0a7069}
+.swiper-slide-caption .jumbotron-custom {color:#6dbe45}
 .swiper-slide-caption  .veil{color:#333333}
 .swiper-slide{text-align:left;}
-.swiper-slide .btn.btn-primary{background:#0a7069;border-color:#0a7069}
+.swiper-slide .btn.btn-primary{background:#6dbe45;border-color:#ffffff}
 @media (max-width:992px)
 {
 	.rd-navbar-brand img{width:140px;}
